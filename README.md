@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Zayn-Alabeden-Ahamd<br>👀 I’m interested in Writing Codes / Keep Learning / Be More Productive<br>🌱 I’m currently learning FrontEnd Development<br>📫 How to reach me zaynalabeden223@gamil.com
+👋 Hi, I’m @Zayn-Alabeden-Ahamd<br>👀 I’m interested in C++ / C# / Functional Programming  / Keep Learning / Be More Productive<br>🌱 I’m currently learning C# Development<br>📫 How to reach me zaynalabeden223@gamil.com
 
 
 ## 🌐 Socials:
